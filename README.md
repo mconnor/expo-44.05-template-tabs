@@ -1,4 +1,4 @@
-# Lastest Expo template
+# Latest Expo template
 
 taken directly from the [expo repo](https://github.com/expo/expo/blob/main/templates/expo-template-tabs/package.json)
 
